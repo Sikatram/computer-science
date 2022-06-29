@@ -1,5 +1,14 @@
 # **Python**
 
+## Table of Contents
+1. [Python Introduction](#python-introduction)
+2. [Python Getting Started](#python-getting-started)
+3. [Python Syntax](#python-syntax)
+4. [Python Comments](#python-comments)
+5. [Python Variables](#variables)
+
+---
+
 [W3 Schools Python Introduction](https://www.w3schools.com/python/python_intro.asp "python introduction")
 
 ## Python Introduction
