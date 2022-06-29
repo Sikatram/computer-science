@@ -7,3 +7,12 @@
 **Mutually Exclusive**: "Mutually exclusive" is a statistical term describing two or more events that cannot occur simultaneously. [more](https://www.investopedia.com/terms/m/mutuallyexclusive.asp)
 
 **Thread**: A thread of execution is the smallest sequence of programmed instructions that can be managed independently by a scheduler, which is typically a part of the operating system. [more](https://en.wikipedia.org/wiki/Thread_(computing))
+
+
+# Topics
+
+**[Functional vs. Procedural vs. Object-Oriented Programming](https://scoutapm.com/blog/functional-vs-procedural-vs-oop)**
+
+# Video Links
+
+[Threading vs Multiprocessing in Python](https://youtu.be/ecKWiaHCEKs)
