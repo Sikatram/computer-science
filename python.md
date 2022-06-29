@@ -7,9 +7,13 @@
 4. [Python Comments](#python-comments)
 5. [Python Variables](#variables)
 
----
+## References
+1. [python.org](https://www.python.org/ "python.org")
+2. [PEP 0 – Index of Python Enhancement Proposals (PEPs)](https://peps.python.org/pep-0000/ "PEP 0 – Index of Python Enhancement Proposals (PEPs)")
+3. [PEP 8 – Style Guide for Python Code](https://peps.python.org/pep-0008/#introduction "PEP 8 – Style Guide for Python Code")
+4. [W3 Schools Python Introduction](https://www.w3schools.com/python/python_intro.asp "python introduction")
 
-[W3 Schools Python Introduction](https://www.w3schools.com/python/python_intro.asp "python introduction")
+---
 
 ## Python Introduction
 
