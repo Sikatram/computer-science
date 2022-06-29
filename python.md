@@ -1,5 +1,7 @@
 # **Python**
 
+![Python Logo](https://www.python.org/static/community_logos/python-logo-generic.svg "Python Logo")
+
 ## Table of Contents
 1. [Python Introduction](#python-introduction)
 2. [Python Getting Started](#python-getting-started)
@@ -35,14 +37,14 @@ It is used for:
 * Python can be used for rapid prototyping, or for production-ready software development
 
 ### Why Python?
-* Python work on different platforms (Windows, Mac, Linux, Raspberry Pi, etc)
+* Python works on different platforms (Windows, Mac, Linux, Raspberry Pi, etc)
 * Python has a simple syntax similar to the English language
 * Python has syntax that allows developers to write programs with fewer lines than some other programming languages
 * Python runs on an interpreter system, meaning that code can be executed as soon as it is written. This means that prototyping can be very quick.
 * Python can be treated in procedural way, an object-oriented way or a functional way.
 
 ### Good to know
-* The most recent major version of Python is Python 3, which we shall be using in this tutorial. However, Python 2, although not being updated with anything other than security updates, is still quite popular.
+* The most recent major version of Python is Python 3, which shall be used in this tutorial. However, Python 2, although not being updated with anything other than security updates, is still quite popular.
 * In this tutorial Python will be written in a text editor. It is possible to write Python in an Integrated Development Environment, such as Thonny, Pycharm, Netbeans or Eclipse which are particularly useful when managing larger collections of Python files.
 
 ### Python Syntax compared to other programming languages
@@ -133,7 +135,7 @@ Indentation refers to the spaces at the beginning of a code line.
 
 Where in other programming languages in the indentation in code in for readability only, the indentation in Python is very important.
 
-Python uses indentation a block of code.
+Python uses indentation to indicate a block of code.
 
 ```python
 if 5 > 2:
@@ -180,7 +182,7 @@ Comments can be used to prevent execution when testing code.
 
 ### Creating a Comment
 
-Comments starts with a #, and Python will ignore them:
+Comments start with a #, and Python will ignore them:
 
 ```python
 #This is a comment
